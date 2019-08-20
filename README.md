@@ -20,7 +20,7 @@
 - [Android组件化](#Android组件化)
 - [Android插件化](#Android插件化)
 - [WiFi](#WiFi)
--  [Android studio插件](#Android studio插件)
+- [Android studio插件](#Android studio插件)
 - [Android投屏](#Android投屏)
 - [Android屏幕适配](#Android屏幕适配)
 - [Seekbar&Progressbar](#Seekbar&Progressbar)
