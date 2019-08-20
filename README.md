@@ -1,10 +1,9 @@
 # GitHub上star的第三方库整理
 
-#### 整理时间：2019.08.06 
+整理时间：2019.08.06 
+整理至：BaseRecyclerViewAdapterHelper
 
-#### 整理至：BaseRecyclerViewAdapterHelper
-
-- [wifi](#WiFi)
+[TOC]
 
 ## Flutter
 
@@ -12,7 +11,7 @@
 
 [**FlutterDouBan**](https://github.com/kaina404/FlutterDouBan) :用flutter开发的仿豆瓣的学习库。
 
-[**Flutter实战 **](https://github.com/flutterchina/flutter-in-action) ：大佬写的关于flutter开发的教程。
+[Flutter实战 ](https://github.com/flutterchina/flutter-in-action)  :大佬写的关于flutter开发的教程。
 
 [FlutterBleLib](https://github.com/Polidea/FlutterBleLib) ：flutter蓝牙开发库。
 
@@ -338,7 +337,7 @@
 
 [XUpdate](https://github.com/xuexiangjys/XUpdate) ：一个轻量级、高可用性的Android版本更新框架。
 
-# MaterialDesign
+## MaterialDesign
 
 [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
