@@ -1,9 +1,76 @@
 # GitHub上star的第三方库整理
 
-整理时间：2019.08.06 
-整理至：BaseRecyclerViewAdapterHelper
+#### - 整理时间：2019.08.06 
 
-[TOC]
+#### 整理至：BaseRecyclerViewAdapterHelper
+
+
+
+## 目录
+
+- [Flutter](#Flutter)
+- [链式编程](#链式编程)
+- [APT代码自动生成](#APT代码自动生成)
+- [google](#google)
+- [Android单元测试](#Android单元测试)
+- [Room数据库](#Room数据库)
+- [依赖注入](#依赖注入)
+- [Kotlin](#Kotlin)
+- [布局阴影效果](#布局阴影效果)
+- [Android组件化](#Android组件化)
+- [Android插件化](#Android插件化)
+- [WiFi](#WiFi)
+-  [Android studio插件](#Android studio插件)
+- [Android投屏](#Android投屏)
+- [Android屏幕适配](#Android屏幕适配)
+- [Seekbar&Progressbar](#Seekbar&Progressbar)
+- [自动化测试](#自动化测试)
+- [金山云视频](#金山云视频)
+- [Android本地存储](#Android本地存储)
+- [Android WebView](#Android WebView)
+- [Android指示器](#Android指示器)
+- [应用初始化](#应用初始化)
+- [支付](#支付)
+- [调试&监测](#调试&监测)
+- [状态页面管理](#状态页面管理)
+- [Android6.0动态权限](#Android6.0动态权限)
+- [Toast&Dialog](#Toast&Snackbar&Dialog&PopupWindow)
+- [状态栏管理](#状态栏管理)
+- [图片处理](#图片处理)
+- [相机](#相机)
+- [二维码](#二维码)
+- [视图绑定&数据绑定](#视图绑定&数据绑定)
+- [EventBus](#EventBus)
+- [AOP](#AOP)
+- [Android MarkDown](#android Markdown)
+- [Activity](#Activity)
+- [Fragment](#Fragment)
+- [Okhttp](#Okhttp)
+- [动画](#动画)
+- [视频](#视频)
+- [图标](#图标)
+- [用户引导页面](#用户引导页面)
+- [XML](#XML)
+- [轮播图](#轮播图)
+- [仿IOS](#仿IOS)
+- [常用工具库](#常用工具库)
+- [检查更新](#检查更新)
+- [MaterialDesign](#MaterialDesign)
+- [Android UI](#Android UI)
+- [日志](#日志)
+- [混合开发](#混合开发)
+- [快速开发](#快速开发)
+- [MVVM](#MVVM)
+- [RecyclerView](#RecyclerView)
+- [特殊效果](#特殊效果)
+- [悬浮窗](#悬浮窗)
+- [Rx系列](#Rx系列)
+- [蓝牙](#蓝牙)
+- [SVG](#SVG)
+- [优秀项目&新技术学习项目](#优秀项目&新技术学习项目)
+- [其他](#其他)
+
+
 
 ## Flutter
 
